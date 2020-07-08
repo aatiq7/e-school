@@ -1,0 +1,245 @@
+/* header section start------------------------- */
+.nav-img{
+    height: 60px;
+}
+.nav-link{
+    font-size: 17px;
+    font-weight: 500;
+    margin: 0 10px;
+}
+.navbar{
+    background-color: #F0FFF0 !important;
+}
+.header-img{
+    width: 100%;
+}
+.header-bg{
+    background-color: #F0FFF0;
+}
+.header-content{
+    padding: 60px 40px;
+}
+.all-btn{
+    color: white;
+    background-color: #21B573;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 35px;
+    cursor: pointer;
+}
+.all-btn:hover {
+    background-image: linear-gradient(45deg, #B279F4, #8C48F3);
+}
+.sign-in-btn{
+    color: white !important;
+    background-color: #21B573;
+    padding: 7px 30px !important;
+    border-radius: 25px;
+}
+.header-p{
+    color: #FD511A;
+    font-size: 17px;
+}
+.header-p2{
+    color: #6C6B6B;
+    font-size: 18px;
+    line-height: 30px;
+}
+.header-h{
+    font-size: 50px;
+    font-weight: 800;
+    padding-bottom: 10px;
+}
+.highlight{
+    color: #21B573;
+}
+.header-section{
+    background-color: #F0FFF0;
+}
+/* header section finish------------------------- */
+
+
+
+
+/* book section start---------------------------- */
+.book-section{
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.book-img{
+    height: 130px;
+    padding: 20px 0;
+}
+.book-box{
+    text-align: center;
+    background-color: #F8FFFB;
+    padding: 45px;
+    height: 300px;
+}
+.book-box:hover {
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.box-h{
+    font-weight: 600;
+    color: #413960;
+}
+.box-p{
+    color: #6C6B6B;
+    font-size: 17px;
+}
+/* book section finish--------------------------- */
+
+
+
+
+/* course section start---------------------------- */
+.course-section{
+    margin-bottom: 70px;
+}
+.course-header{
+    text-align: center;
+    color: #413960;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card:hover {
+    box-shadow: none;
+    background-color: #F8FFFB;
+}
+.card-btn{
+    color: white;
+    background-color: #21B573;
+    border: none;
+    border-radius: 25px;
+    padding: 7px 35px;
+    cursor: pointer;
+}
+.card-img{
+    margin-bottom: 25px;
+}
+.card-title{
+    color: #413960;
+}
+.card-icon{
+    height: 25px;
+    padding-right: 5px;
+}
+.card-bottom{
+    padding: 12px 18px;
+}
+.card-btn:hover {
+    background-color:  #ff5733;
+}
+.card p{
+    color: #6C6B6B;
+    font-weight: 600;
+}
+/* book section finish--------------------------- */
+
+
+
+
+/* team section start---------------------------- */
+.team-section{
+    background-color: #F8FFFB;
+    padding-bottom: 40px;
+}
+.team-header{
+    color: #413960;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 60px;
+    padding-top: 50px;
+}
+.team-img{
+    width: 100%;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+.team-content{
+    text-align: center;
+    padding: 5px;
+}
+.team-content p{
+    color: #6C6B6B;
+    font-size: 16px;
+    line-height: 15px;
+}
+.team-content:hover .team-img{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+/* team section finish--------------------------- */
+
+
+
+
+/* testimonial section start---------------------------- */
+.testimonial-section{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.test-header{
+    color: #413960;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.test-img{
+    width: 125px;
+}
+.test-p{
+    color: #303030;
+    font-size: 17px;
+    font-weight: 600;
+}
+/* testimonial section finish--------------------------- */
+
+
+
+
+/* footer section start---------------------------- */
+.footer-section{
+    color: white;
+    background-color: #282531;
+    padding-top: 60px;
+}
+.footer-content p{
+    font-size: 17px;
+}
+.footer-h{
+    font-weight: bold;
+}
+.footer-p{
+    font-size: 18px;
+    font-weight: 600;
+}
+.footer-p2{
+    line-height: 18px;
+}
+.footer-p2 a{
+    color: white;
+    text-decoration: none;
+}
+.footer-p2 a:hover {
+    color: #0069D9;
+}
+footer{
+    text-align: center;
+    color: #CDCDCD;
+    background-color: #282531;
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+/* footer section finish---------------------------- */
+
+
+
